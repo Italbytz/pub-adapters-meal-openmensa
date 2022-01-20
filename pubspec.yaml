@@ -1,6 +1,6 @@
 name: open_mensa_meal_adapters
 description: Adapting the OpenMensa API to meal_ports.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Italbytz/pub-adapters-meal-openmensa
 
 environment:
@@ -13,7 +13,7 @@ dependencies:
 
   common_ports: ^0.0.5
   meal_ports: ^0.0.6
-  open_mensa_infrastructure: ^0.0.2
+  open_mensa_infrastructure: ^0.0.3
 
 dev_dependencies:
   flutter_test:
